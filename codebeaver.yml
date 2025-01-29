@@ -1,0 +1,2 @@
+from: node22-jest
+ignore: ['next-sitemap.config.test.js', 'next.config.test.js', '*config.test.js']
